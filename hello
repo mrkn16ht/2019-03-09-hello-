@@ -1,1 +1,5 @@
 print("hello")
+<<<<<<< Updated upstream
+=======
+print("haha")
+>>>>>>> Stashed changes
